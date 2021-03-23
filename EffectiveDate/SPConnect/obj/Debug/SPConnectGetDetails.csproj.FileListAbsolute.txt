@@ -1,0 +1,8 @@
+C:\Srini\Celitotech\Dev\Sample\SPConnectGetDetails\SPConnect\bin\Debug\SPConnect.exe.config
+C:\Srini\Celitotech\Dev\Sample\SPConnectGetDetails\SPConnect\bin\Debug\SPConnect.exe
+C:\Srini\Celitotech\Dev\Sample\SPConnectGetDetails\SPConnect\bin\Debug\SPConnect.pdb
+C:\Srini\Celitotech\Dev\Sample\SPConnectGetDetails\SPConnect\obj\Debug\SPConnectGetDetails.csprojAssemblyReference.cache
+C:\Srini\Celitotech\Dev\Sample\SPConnectGetDetails\SPConnect\obj\Debug\SPConnectGetDetails.csproj.CoreCompileInputs.cache
+C:\Srini\Celitotech\Dev\Sample\SPConnectGetDetails\SPConnect\obj\Debug\SPConnectGetDetails.csproj.CopyComplete
+C:\Srini\Celitotech\Dev\Sample\SPConnectGetDetails\SPConnect\obj\Debug\SPConnect.exe
+C:\Srini\Celitotech\Dev\Sample\SPConnectGetDetails\SPConnect\obj\Debug\SPConnect.pdb

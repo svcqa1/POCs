@@ -1,0 +1,13 @@
+C:\Srini\Celitotech\Dev\SyncFusion\EffectiveDate\SPConnect\bin\Debug\SPConnect.exe.config
+C:\Srini\Celitotech\Dev\SyncFusion\EffectiveDate\SPConnect\bin\Debug\SPConnect.exe
+C:\Srini\Celitotech\Dev\SyncFusion\EffectiveDate\SPConnect\bin\Debug\SPConnect.pdb
+C:\Srini\Celitotech\Dev\SyncFusion\EffectiveDate\SPConnect\obj\Debug\EffectiveDate.csprojAssemblyReference.cache
+C:\Srini\Celitotech\Dev\SyncFusion\EffectiveDate\SPConnect\obj\Debug\EffectiveDate.csproj.CoreCompileInputs.cache
+C:\Srini\Celitotech\Dev\SyncFusion\EffectiveDate\SPConnect\obj\Debug\EffectiveDate.csproj.CopyComplete
+C:\Srini\Celitotech\Dev\SyncFusion\EffectiveDate\SPConnect\obj\Debug\SPConnect.exe
+C:\Srini\Celitotech\Dev\SyncFusion\EffectiveDate\SPConnect\obj\Debug\SPConnect.pdb
+C:\Srini\Celitotech\Dev\SyncFusion\EffectiveDate\SPConnect\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Srini\Celitotech\Dev\SyncFusion\EffectiveDate\SPConnect\bin\Debug\Syncfusion.Licensing.dll
+C:\Srini\Celitotech\Dev\SyncFusion\EffectiveDate\SPConnect\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Srini\Celitotech\Dev\SyncFusion\EffectiveDate\SPConnect\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Srini\Celitotech\Dev\SyncFusion\EffectiveDate\SPConnect\bin\Debug\Syncfusion.Pdf.Base.xml
